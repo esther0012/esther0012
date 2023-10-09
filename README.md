@@ -1,7 +1,6 @@
 ## Ola! Eu sou a Esther Massabane
 
 - 👩🏻‍💻 Hoje sou estagiária, na empresa Poupex de Ciências da computação
-- 🤓 Estudando SpringBoot e Java
 - 📩 Contate-me no email: esthermassabane08@gmail.com
 - 👩🏻 Pronouns: ela-dela
 <div align="left">
