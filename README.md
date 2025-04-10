@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Esther Massabane Mynssen, tenho 21 anos e sou natural de Brasília-DF. Atualmente, estou cursando Ciência da Computação no Uniceub. Sou apaixonada por tecnologia e seus desafios.
+My name is Esther Massabane Mynssen, I'm 21 years old and I'm from Brasília-DF. I'm currently studying Computer Science at Uniceub. I'm passionate about technology and its challenges.
 
 <p align="left">
     <a href="https://github.com/esther0012?tab=followers">
@@ -37,7 +37,7 @@ Me chamo Esther Massabane Mynssen, tenho 21 anos e sou natural de Brasília-DF. 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -123,7 +123,7 @@ Me chamo Esther Massabane Mynssen, tenho 21 anos e sou natural de Brasília-DF. 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
